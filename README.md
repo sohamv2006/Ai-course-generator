@@ -1,36 +1,107 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AI Course Generator 🤖📚
 
-## Getting Started
+## 📌 Overview
 
-First, run the development server:
+**AI Course Generator** is a web-based application that generates structured course content using Artificial Intelligence.
+The platform helps users quickly create learning paths, course outlines, and educational material automatically based on user input.
+
+This project demonstrates the use of **AI-powered content generation combined with modern web development technologies**.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Backend
+
+* Node.js
+* Express.js
+
+### AI Integration
+
+* AI-based content generation API
+
+### Other Tools
+
+* Git
+* GitHub
+
+---
+
+## ✨ Features
+
+* AI-powered course generation
+* Dynamic course outline creation
+* Interactive user interface
+* Backend API integration
+* Fast generation of learning content
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/sohamv2006/Ai-course-generator.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 2️⃣ Navigate to the Project Directory
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+cd Ai-course-generator
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+### 3️⃣ Install Dependencies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm install
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+### 4️⃣ Run the Application
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npm start
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🎯 Purpose of the Project
+
+* Explore **AI-powered content generation**
+* Practice **full-stack web development**
+* Build tools that simplify **course creation and learning**
+* Experiment with **AI APIs in real-world applications**
+
+---
+
+## 🔄 Future Improvements
+
+* Export generated courses as PDF or documents
+* Course customization options
+* Improved UI/UX
+* Integration with learning platforms
+* Advanced AI prompts for better course structure
+
+---
+
+## 👨‍💻 Author
+
+**Soham Varekar**
+
+GitHub: https://github.com/sohamv2006
+
+---
+
+⭐ If you find this project useful, consider **starring the repository**.

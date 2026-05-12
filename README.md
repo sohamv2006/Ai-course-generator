@@ -90,7 +90,7 @@ npm start
 
 * Export generated courses as PDF or documents
 * Course customization options
-* Improved UI/UX
+
 * Integration with learning platforms
 * Advanced AI prompts for better course structure
 
